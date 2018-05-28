@@ -1,0 +1,9 @@
+.icon-btn{
+  text-align: center;
+  color: #444;
+  margin-top: 3em;
+}
+
+.icon-btn:hover{
+  color:plum;
+}
